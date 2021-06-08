@@ -1,2 +1,0 @@
-.pptx filter=lfs diff=lfs merge=lfs -text
-documentation/démos/demo_ReplicaSet.pptx filter=lfs diff=lfs merge=lfs -text
